@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Headphones",
+    "name": "DINITROL",
     "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
@@ -53,6 +53,11 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
+      },
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
     "gdpr": "",
@@ -2729,7 +2734,7 @@
       "settings": {
         "title": "Dinitrol 479 (5л,бидон)",
         "order": 9,
-        "footer_custom": "<script  type=\"text/javascript\">\nfunction test(c) {\nvar  newwin=window.open('1.html');\n\t    setTimeout(function () {\n\t        wrt(newwin);\n\t    },1);\n\t}\n\tfunction wrt(oWin) {\nalert(oWin);\n\t    var o=oWin.document.getElementById('part');\nalert(o);\n\t if (o) {\n\t\t    o.innerHTML='DINITROl';\n       alert(o.innerHTML);\n        return;\n\t    }\n\t    setTimeout(function () {\n\t        wrt(oWin);\n\t    },1);\n\t}\n\t</script>",
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>",
         "html_before": ""
       },
       "components": [
