@@ -3520,6 +3520,48 @@ body {
     margin-bottom: 1.5rem;
   }
 }
+.cid-qYSeKG6bjz {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-qYSeKG6bjz .row-element,
+.cid-qYSeKG6bjz .image-element {
+  padding: 0;
+}
+.cid-qYSeKG6bjz .image-element {
+  display: flex;
+  justify-content: center;
+}
+.cid-qYSeKG6bjz .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-qYSeKG6bjz .text-content {
+  padding: 3rem;
+}
+@media (max-width: 767px) {
+  .cid-qYSeKG6bjz .text-content {
+    padding: 2rem 1rem;
+  }
+  .cid-qYSeKG6bjz .mbr-title,
+  .cid-qYSeKG6bjz .mbr-text,
+  .cid-qYSeKG6bjz .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+.cid-qYSeKG6bjz .mbr-text,
+.cid-qYSeKG6bjz .mbr-section-btn {
+  color: #365c9a;
+}
+.cid-qYSeKG6bjz .mbr-title {
+  color: #365c9a;
+}
+.cid-qYSeKG6bjz P {
+  color: #f70f0f;
+}
 .cid-qIuNheldqe .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
