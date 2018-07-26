@@ -1664,7 +1664,7 @@
       "settings": {
         "title": "Dinitrol 479 (1 литр, банка)",
         "order": 11,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
@@ -3373,7 +3373,7 @@
       "settings": {
         "title": "Dinitrol ML (500 ml, аэрозоль)",
         "order": 8,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
@@ -3950,7 +3950,7 @@
       "settings": {
         "title": "Dinitrol RC800 (60 ml, тюбик)",
         "order": 7,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
@@ -4527,7 +4527,7 @@
       "settings": {
         "title": "Dinitrol RC800 (100 ml, спрей)",
         "order": 6,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
@@ -5104,7 +5104,7 @@
       "settings": {
         "title": "Dinirol 478/CAR",
         "order": 5,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
@@ -5681,7 +5681,7 @@
       "settings": {
         "title": "Dinitrol 1000 (500 ml, аэрозоль)",
         "order": 4,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
@@ -6258,7 +6258,7 @@
       "settings": {
         "title": "Dinitrol 1000 1 литр",
         "order": 3,
-        "footer_custom": ""
+        "footer_custom": "<script src=\"assets/order/order.js\"></script>"
       },
       "components": [
         {
