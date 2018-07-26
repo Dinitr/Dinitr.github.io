@@ -9,7 +9,7 @@
 	    },1000);
 	}
 	function wrt(ValueObj, ValText) {
-		var obj=ValueObj.document.getElementById('part');
+		var obj=ValueObj.document.getElementById('message-form3-1l');
 		if (obj) {
 		    obj.innerHTML=ValText;
         return;
